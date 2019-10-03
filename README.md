@@ -1,0 +1,4 @@
+Another one from the archives
+
+This one was before I learned about machine learning. I wanted to device a society simulator which takes in a bunch of units and tries to gauge their receptiveness and respect for someone of another "type". The original intent was to see if I could simulate the permeability of racism in a community but that seems like a very touchy subject so I've simply been calling them units and being ambiguous about the variable names. There is absolutely no scientific basis for the values I've put in-
+it's entirely anecdotal. I recognize that that's not a good way to start it. I did base the decision making on the idea that people have decision gates where if enough of a certain neurotrasmitter is packed into a decision gate (yes or no), it will trigger the decision. I honestly don't remember where I saw this theory and I'm trying to find a peer-reviewed paper describing it...
